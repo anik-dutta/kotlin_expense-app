@@ -13,6 +13,7 @@ This Kotlin based based Android application helps user to keep track of their ex
     <img src="images/img2.png" alt="img2">
     <img src="images/img3.png" alt="img3">
 </div>
+
 ## Output
 
 * Home page
@@ -20,12 +21,14 @@ This Kotlin based based Android application helps user to keep track of their ex
     <img src="images/img4.png" alt="img4">
     <img src="images/img5.png" alt="img5">
 </div>
+
 * Add expense
 <div align="center">
     <img src="images/img6.png" alt="img6">
     <img src="images/img7.png" alt="img7">
     <img src="images/img8.png" alt="img8">
 </div>
+
 * Rate us
 <div align="center">
     <img src="images/img9.png" alt="img9">
